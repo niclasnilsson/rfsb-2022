@@ -1,0 +1,13 @@
+{:deps
+ {clj-http/clj-http                 {:mvn/version "3.12.3"}
+  com.github.seancorfield/honeysql  {:mvn/version "2.2.891"}
+  com.github.seancorfield/next.jdbc {:mvn/version "1.2.780"}
+  fooheads/trebl                    {:git/url "https://github.com/fooheads/trebl.git" 
+                                     :sha "3b35dfceb441d129203270d92372cd43f990c6a8"}
+  hiccup/hiccup                     {:mvn/version "1.0.5"}
+  lambdaisland/deep-diff2           {:mvn/version "2.2.124"}
+  metosin/malli                     {:mvn/version "0.8.4"}
+
+  org.clojure/data.csv              {:mvn/version "1.0.1"}
+  org.xerial/sqlite-jdbc            {:mvn/version "3.36.0.3"}}}
+
